@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "quiz-cobras",
+    "slug": "quiz-cobras",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/icone.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./images/icone.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./images/icone.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.rafaelmoraes.quizcobras"
+    },
+    "web": {
+      "favicon": "./images/icone.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cf313c5e-837f-49c3-86ea-96456a48a12e"
+      }
+    }
+  }
+}
